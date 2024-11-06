@@ -1,0 +1,2 @@
+# GameShop
+SpringAplication/SoftUni_AutoMapping_Exercise
